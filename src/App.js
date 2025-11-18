@@ -7,7 +7,7 @@ function App() {
         <div>buyy</div>
         <p>hello bor</p>
         <div>bkkkk</div>
-        <div>heelo girl</div>
+        <span>basket</span>
     </div>
   );
 }
