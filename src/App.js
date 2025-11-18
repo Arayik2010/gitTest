@@ -6,6 +6,9 @@ function App() {
         <p>hello world</p>
         <div>buyy</div>
         <h1>ffff</h1>
+        <p>hello bor</p>
+        <div>bkkkk</div>
+        <div>heelo girl</div>
     </div>
   );
 }
